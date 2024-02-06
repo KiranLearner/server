@@ -18,4 +18,24 @@ DNS Server: 192.168.1.10 <br> <h4>
 <img src="images\Picture7.jpg" >
 <img src="images\Picture8.jpg">
 <h3> Add a new forest as domainKK.com </h3>
-<img src= "images\Picture9.jpg">
+<img src="images\Picture9.jpg">
+<h4> created two users in active directory <h4>
+<h5> created another machine in Hyper-v for MSExchange ,start the server and put the following ipv4 in this ,<br>IP Address: 192.168.1.5 <br>
+Subnet Mask: 255.255.255.0<br>
+DNS Server: 192.168.1.10<br>
+</h5>
+<img src="images\Picture10.jpg">
+<h5> add this to the active directory <h5>
+<img src="images\Picture11.jpg">
+<img src="images\Picture12.jpg">
+install different features to it using powershell scripts,mount the msexchange and access it
+<img src="images\Picture13.jpg">
+<img src="images\Picture14.jpg">
+<img src="images\Picture15.png">
+<h5>logged in with the domainkk/KK2019exadmin and password </h5> 
+<img src="images\Picture16.png">
+<h4> opened the link http://MSExchange2019K.domainKK.com for the outlook and this page appear </h4>
+<img src="images\Picture17.png">
+<img src="images\Picture18.png">
+<img src="images\Picture19.png">
+
