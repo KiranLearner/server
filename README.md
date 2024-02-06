@@ -16,5 +16,6 @@ DNS Server: 192.168.1.10 <br> <h4>
  and dns services <h4>
 <img src="images\Picture6.jpg" >
 <img src="images\Picture7.jpg" >
-
-
+<img src="images\Picture8.jpg">
+<h3> Add a new forest as domainKK.com </h3>
+<img src= "images\Picture9.jpg">
